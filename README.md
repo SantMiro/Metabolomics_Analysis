@@ -41,4 +41,6 @@ Results show that Tryptophan is the metabolite that ranks the highest in feature
 
 In conclusion, we infer that the above alternatives did not have any exceptional impact on our findings. The major reason for this might be the scarcity of data and the imbalance or underrepresentation of some data labels.
 
-To read the complete paper: [541.pdf](https://github.com/SantMiro/Metabolomics_Analysis/files/11792779/541.pdf)
+## Full Paper
+To read the full paper: [Metabolomics_Analysis.pdf](https://github.com/SantMiro/Metabolomics_Analysis/files/11792796/Metabolomics_Analysis.pdf)
+
