@@ -4,6 +4,12 @@ This repository contains the code and data for the research project titled "Meta
 
 ## Authors
 
+
+- Santiago Miro Trejo
+  - University of Alberta
+  - Email: mirotrej@ualberta.ca
+
+
 - Ricardo Suarez Suarez
   - University of Alberta
   - Email: suarez@ualberta.ca
@@ -16,9 +22,6 @@ This repository contains the code and data for the research project titled "Meta
   - University of Alberta
   - Email: gtata@ualberta.ca
 
-- Santiago Miro Trejo
-  - University of Alberta
-  - Email: mirotrej@ualberta.ca
 
 - Nabil Al Asmer
   - University of Alberta
@@ -37,3 +40,5 @@ Serum metabolites are analyzed using Unsupervised (U.ML) and Supervised (S.ML) M
 Results show that Tryptophan is the metabolite that ranks the highest in feature importance scoring. Histidine is another metabolite that correlates well with the severity of the disease. In the regression analysis, it was observed that Partial Least Squares (PLS) with LOL reduction setting incurred the least Mean Squared Error (MSE) of 0.8806. In the classification process, Random Forest with Linear Discriminant Analysis (LDA) setting achieved the least False Negative rate of 0.53, and K-Nearest Neighbors (KNN) with Principal Component Analysis (PCA) setting yielded the highest accuracy score of 63.
 
 In conclusion, we infer that the above alternatives did not have any exceptional impact on our findings. The major reason for this might be the scarcity of data and the imbalance or underrepresentation of some data labels.
+
+To read the complete paper: 
